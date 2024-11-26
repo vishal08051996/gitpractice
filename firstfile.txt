@@ -1,3 +1,5 @@
 Hi there old file line
 
 i am writing an additional line
+
+third line added from cloned 
